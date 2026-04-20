@@ -28,6 +28,9 @@ p {
   margin: auto;
   width: 50%;
 }
+.Note {
+  margin: 20px;
+  font-family: Comic Sans Ms;  
 .left {
   text-align: left
 }
