@@ -1,0 +1,62 @@
+body.main {
+    background-color:skyblue;
+}
+
+body {
+    background-color:gainsboro;
+}
+
+li {
+    font-family: Comic Sans MS
+
+}
+
+h1 {
+    font-family: Comic Sans MS; text-shadow: 2px 2px rgb(83, 123, 138); text-align:center
+}
+
+h2 {
+    font-family: Comic Sans MS;
+}
+
+h3 {
+    font-family: Comic Sans MS;
+}
+
+p {
+    font-family: Comic Sans MS;
+}
+
+.center {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+.left {
+  text-align: left
+}
+
+button {
+  background-color: darkslateblue;
+  border-color: gainsboro;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Comic Sans MS;
+  font-size: 16px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  width: 75%
+}
+
+iframe {
+    height: 400px;
+    width:90%;
+    margin: auto;
+    display: block;
+    resize: both;
+    overflow: hidden;
+}
